@@ -1,0 +1,20 @@
+{
+  "name": "17-colorgameproject",
+  "version": "1.0.0",
+  "description": "Practice CSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xKofuku/colorgamepractice.git"
+  },
+  "author": "Elijah Lance Catli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xKofuku/colorgamepractice/issues"
+  },
+  "homepage": "https://github.com/xKofuku/colorgamepractice#readme"
+}
